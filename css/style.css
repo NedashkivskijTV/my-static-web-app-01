@@ -12,3 +12,15 @@
 #tablepage tr:first-child{
     background: yellow;
 }
+
+#tablepage tr:last-child{
+    background: #50792E
+}
+
+#tablepage tr td:first-child{
+    background: #9CC2EA
+}
+
+#tablepage tr td:nth-child(n+2){
+background: #E8E8E8
+}
